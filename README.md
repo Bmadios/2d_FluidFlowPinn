@@ -17,7 +17,7 @@ The resulting model should be capable of predicting fluid flow attributes (such 
 ![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/Points_colloc.png "Collocation points sampling")
 
 ## PINN model architecture
-![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/Points_colloc.png "PINN Architecture")
+![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/pinn_architecture.png "PINN Architecture")
 
 
 ## Usage
