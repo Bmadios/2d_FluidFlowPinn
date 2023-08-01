@@ -20,11 +20,11 @@ To run `main.py` from `Navier_Stokes_2d_flow_past_cylinder` folder, use the foll
 python main.py --data_path /path/to/data --max_iter 1000
 
 
- You can run the script with a pretrained model like this:
+ You can run the script with a pretrained model:
  
  python main.py --data_path "your/data/path" --pretrained_model "path/to/pretrained/model.pth"
 
-Or you can train a model from scratch like this:
+Or you can train a model from scratch:
 
 python main.py --data_path "your/data/path"
 
