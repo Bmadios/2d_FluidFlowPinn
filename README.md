@@ -14,7 +14,7 @@ The resulting model should be capable of predicting fluid flow attributes (such 
 
 ## Usage
 
-To run `main.py`, use the following command:
+To run `main.py` from Navier_Stokes_2d_flow_past_cylinder folder, use the following command:
 
 ```bash
 python main.py --data_path /path/to/data --max_iter 1000
