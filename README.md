@@ -12,7 +12,7 @@ The current project revolves around developing a Physics-Informed Neural Network
    
 The resulting model should be capable of predicting fluid flow attributes (such as velocity and pressure) based on the initial conditions and system parameters. This is expected to be achieved with minimal training data gathered through numerical simulation (CFD). The project aims to demonstrate the efficacy of PINNs as a tool for fluid dynamics studies with limited training data, opening doors to a multitude of practical applications.
 
-## Collocation Points
+## Collocation Pointss
 
 ![alt text](url_to_image "Collocation points sampling")
 
