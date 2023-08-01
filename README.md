@@ -14,7 +14,7 @@ The resulting model should be capable of predicting fluid flow attributes (such 
 
 ## Collocation Pointss
 
-![alt text](url_to_image "Collocation points sampling")
+![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/Points_colloc.png "Collocation points sampling")
 
 
 
