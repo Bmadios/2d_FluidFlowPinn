@@ -12,10 +12,12 @@ The current project revolves around developing a Physics-Informed Neural Network
    
 The resulting model should be capable of predicting fluid flow attributes (such as velocity and pressure) based on the initial conditions and system parameters. This is expected to be achieved with minimal training data gathered through numerical simulation (CFD). The project aims to demonstrate the efficacy of PINNs as a tool for fluid dynamics studies with limited training data, opening doors to a multitude of practical applications.
 
-## Collocation Pointss
+## Collocation Points
 
 ![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/Points_colloc.png "Collocation points sampling")
 
+## PINN model architecture
+![alt text](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/blob/main/project_report/Points_colloc.png "PINN Architecture")
 
 
 ## Usage
