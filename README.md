@@ -12,6 +12,10 @@ The current project revolves around developing a Physics-Informed Neural Network
    
 The resulting model should be capable of predicting fluid flow attributes (such as velocity and pressure) based on the initial conditions and system parameters. This is expected to be achieved with minimal training data gathered through numerical simulation (CFD). The project aims to demonstrate the efficacy of PINNs as a tool for fluid dynamics studies with limited training data, opening doors to a multitude of practical applications.
 
+![Points_colloc](https://github.com/Bmadios/Fluid_flow_reconstruction_using_Physics_Informed_Neural_Networks/assets/81658434/66912acd-d7f0-4f65-a0d1-e01068bbbd04)
+
+
+
 ## Usage
 
 To run `main.py` from `Navier_Stokes_2d_flow_past_cylinder` folder, use the following command:
